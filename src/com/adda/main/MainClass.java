@@ -1,94 +1,196 @@
 package com.adda.main;
 
+import java.awt.AWTException;
+import java.io.IOException;
+import java.net.MalformedURLException;
 import java.util.concurrent.TimeUnit;
-
-import org.apache.log4j.PropertyConfigurator;
 import org.apache.log4j.xml.DOMConfigurator;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.PageFactory;
-import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterSuite;
-import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Test;
-
 import com.adda.home.DubaiRequestDemo;
-import com.adda.home.Login;
+import com.adda.home.HelpDesk;
 import com.adda.home.LoginAsAdmin;
-import com.adda.home.Logout;
+import com.adda.home.LoginAsResidence;
+import com.adda.home.MyUnit;
 import com.adda.home.RequestDemo;
 import com.adda.home.VerifyConversations;
+import com.adda.home.ConvienienceChargeCalculation;
+import com.adda.home.CreateAndVerifyNotice;
+import com.adda.home.DirectMessage;
 import com.adda.utility.Log;
 
-public class MainClass  {
+public class MainClass {
+
+	static WebDriver driver;
+	LoginAsResidence home;
+	LoginAsAdmin admin;
+	VerifyConversations convrstn;
+	RequestDemo demo;
+	DubaiRequestDemo dubai;
+	CreateAndVerifyNotice notice;
+	MyUnit unit;
+	DirectMessage message;
+	HelpDesk helpdesk;
+	ConvienienceChargeCalculation conv;
+	// String residenceUrl = "https://www.apartmentadda.com";
+	String addaIOurl = "http://adda.io";
+
+	@BeforeSuite
+	public void beforeMethod() {
+		String log4jConfPath = "C:\\Users\\ADDA\\eclipse-workspace\\QAapartmentAdda\\log4j.xml";
+		DOMConfigurator.configure(log4jConfPath);
+		Log.info("Starting chrome browser");
+		System.setProperty("webdriver.chrome.driver",
+				"C:\\Users\\ADDA\\Downloads\\chromedriver_win32\\chromedriver.exe");
+		driver = new ChromeDriver();
+		// Log.info("Staring Firfox Browser");
+		// System.setProperty("webdriver.gecko.driver",
+		// "D:\\geckodriver-v0.21.0-win32\\geckodriver.exe");
+		// driver = new FirefoxDriver();
+		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		driver.manage().window().maximize();
+		driver.get(addaIOurl);
+	}
+
+	public void logInToResidence() throws InterruptedException, AWTException {
+		driver.navigate().to(addaIOurl);
+		home = PageFactory.initElements(driver, LoginAsResidence.class);
+		home.loginToResidence("mynewadda.15@gmail.com", "adda1234");
+		Log.info("User has logged in successfully!!");
+		Thread.sleep(6000);
+	}
+	
+	public void logInToResidenceRare() throws InterruptedException, AWTException {
+		driver.navigate().to(addaIOurl);
+		home = PageFactory.initElements(driver, LoginAsResidence.class);
+		home.rareSignOut();
+		home.loginToResidence("mynewadda.15@gmail.com", "adda1234");
+		Log.info("User has logged in again successfully!!");
+		Thread.sleep(6000);
+	}
+
+	public void LogOutAsResidence() {
+		home = PageFactory.initElements(driver, LoginAsResidence.class);
+		home.logoutUser();
+		Log.info("User has logged out successfully!!");
+	}
+
+	public void LogInAsAdmin() throws InterruptedException {
+		admin = PageFactory.initElements(driver, LoginAsAdmin.class);
+		driver.navigate().to(addaIOurl);
+		admin.loginToAdmin("mynewadda.1@gmail.com", "adda1234");
+		Thread.sleep(3000);
+	}
+
+	public void LogoutFromAdmin() {
+		admin = PageFactory.initElements(driver, LoginAsAdmin.class);
+		admin.logoutFromAdmin();
+	}
+
+	
+	
+	@Test(priority=1)
+	public void AdminCreateNotice() throws InterruptedException, AWTException {
+		LogInAsAdmin();
+		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+		notice = PageFactory.initElements(driver, CreateAndVerifyNotice.class);
+		notice.createNotice();
+		Thread.sleep(4000);
+		LogoutFromAdmin();
 		
-		static WebDriver driver;
-		Login home;
-		Logout logout;
-		LoginAsAdmin admin;
-		VerifyConversations convrstn;
-		RequestDemo demo;
-		DubaiRequestDemo dubai;
-		String residenceUrl = "https://www.apartmentadda.com";
-		String addaIOurl = "http://demo.adda.io";
-		
-		@BeforeSuite
-		  public void beforeMethod() {
-			String log4jConfPath = "C:\\Users\\ADDA\\eclipse-workspace\\adda\\log4j.xml";
-			DOMConfigurator.configure(log4jConfPath);
-			Log.info("Staring Firfox Browser");
-			System.setProperty("webdriver.gecko.driver","D:\\geckodriver-v0.21.0-win32\\geckodriver.exe");
-			driver = new FirefoxDriver();
-		    driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-		    driver.manage().window().maximize();
-		 
-		}
-		
-//		@Test(priority=0)
-//		public void logInToResidence() throws InterruptedException
-//		{
-//			driver.get(residenceUrl);
-//			home = PageFactory.initElements(driver, Login.class);
-//			convrstn = PageFactory.initElements(driver, VerifyConversations.class);
-//			
-//			home.loginToResidence();
-//			Thread.sleep(6000);
-//			//convrstn.CreateConversations();
-//			
-////			demo = PageFactory.initElements(driver, RequestDemo.class);
-////			demo.launchToASRequestDemoFormPage();
-//		}
-//		@Test(priority=1)
-//		public void LogInAsAdmin()
-//		{
-//			admin = PageFactory.initElements(driver, LoginAsAdmin.class);
-//			admin.loginToAdmin();
-//			admin.backToResidence();
-//		}
-//		@Test(priority=2)
-//		public void LogOutAsResidence()
-//		{
-//			logout = PageFactory.initElements(driver, Logout.class);
-//			logout.logoutUser();
-//		} 
-		@Test
-		public void dubaiAdda() throws InterruptedException
-		{
-			driver.get(addaIOurl);
-			dubai = PageFactory.initElements(driver, DubaiRequestDemo.class);
-//			dubai.verifyContactPage();
-//			dubai.verifyContactUsForm();
-//			dubai.verifyGetStared();
-			dubai.verifyJoinAddaFlow();
-		}
-		
-		@AfterSuite
-		  public void afterMethod() {
-			
-		    driver.quit();
-		  }
-		
-		
-		
+	}
+	@Test(priority=2)
+	public void UserVerifyNotice() throws InterruptedException, AWTException {
+		logInToResidenceRare();
+		notice = PageFactory.initElements(driver, CreateAndVerifyNotice.class);
+		notice.verifyNotice();
+	}
+
+	@Test(priority=3)
+	public void verifyMyUnit() throws InterruptedException, AWTException, MalformedURLException, IOException {
+//		logInToResidence();
+		unit = PageFactory.initElements(driver, MyUnit.class);
+		unit.addMember();
+		unit.addVehicle();
+		unit.makePayment();
+		LogOutAsResidence();
+		driver.navigate().to(addaIOurl);
+		Thread.sleep(2000);
+		home = PageFactory.initElements(driver, LoginAsResidence.class);
+		home.rareSignOut();
+		home.loginToResidence("bibhuti@3five8.com", "Bibhuti@1993");
+		unit.makePayment();
+		LogOutAsResidence();
+	}
+
+	@Test(priority=4)
+	public void validateDirectMessage() throws InterruptedException, AWTException {
+		logInToResidenceRare();
+		message = PageFactory.initElements(driver, DirectMessage.class);
+		message.createDirectMessage();
+		LogOutAsResidence();
+		driver.navigate().to(addaIOurl);
+		home = PageFactory.initElements(driver, LoginAsResidence.class);
+		home.rareSignOut();
+		home.loginToResidence("mynewadda.6@gmail.com", "adda1234");
+		message.validateDirectMessage();
+		LogOutAsResidence();
+	}
+
+	@Test(priority=5)
+	public void ValidateHelpdesk() throws InterruptedException, AWTException {
+		logInToResidenceRare();
+		helpdesk = PageFactory.initElements(driver, HelpDesk.class);
+		helpdesk.createHelpDeskTicket();
+		helpdesk.ValidateHelpdesk();
+		Thread.sleep(4000);
+	}
+	
+	@Test(priority=6)
+	public void createConversations() throws InterruptedException, AWTException {
+		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+		convrstn = PageFactory.initElements(driver, VerifyConversations.class);
+		convrstn.CreateConversations();
+		Thread.sleep(4000);
+		convrstn.createPoll();
+		Thread.sleep(3000);
+		convrstn.uploadPhotos();
+		Thread.sleep(4000);
+		LogOutAsResidence();
+	} 
+	
+	
+	//@Test
+	public void concinienceCharges() throws InterruptedException, AWTException
+	{
+		logInToResidence();
+		conv = PageFactory.initElements(driver, ConvienienceChargeCalculation.class);
+		float num =conv.getUPIChargesLessThan2000();
+		System.out.println(num);
+		LogOutAsResidence();
+	}
+
+	// @Test
+	// public void dubaiAdda() throws InterruptedException {
+	// dubai = PageFactory.initElements(driver, DubaiRequestDemo.class);
+	//// dubai.verifyContactPage();
+	//// dubai.verifyContactUsForm();
+	// dubai.verifyGetStared();
+	// dubai.verifyJoinAddaFlow();C:\Users\ADDA\Pictures\Screenshots\Screenshot (1).png
+	// }
+
+	//
+	//
+	@AfterSuite
+	public void afterMethod() {
+
+		driver.quit();
+
+	}
+
 }

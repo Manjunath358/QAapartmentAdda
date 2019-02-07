@@ -11,15 +11,15 @@ public class Log {
 
 public static void startTestCase(String sTestCaseName){
 
-	Log.info("****************************************************************************************");
+	//Log.info("****************************************************************************************");
 
-	Log.info("****************************************************************************************");
+	//Log.info("****************************************************************************************");
 
-	Log.info("$$$$$$$$$$$$$$$$$$$$$                 "+sTestCaseName+ "       $$$$$$$$$$$$$$$$$$$$$$$$$");
+	Log.info("$$$$$$$$$$$$$$$$$$$$$   "+sTestCaseName+ "  $$$$$$$$$$$$$$$$$$$$$$$$$");
 
-	Log.info("****************************************************************************************");
+//	Log.info("****************************************************************************************");
 
-	Log.info("****************************************************************************************");
+//	Log.info("****************************************************************************************");
 
 	}
 
@@ -27,15 +27,15 @@ public static void startTestCase(String sTestCaseName){
 
 public static void endTestCase(String sTestCaseName){
 
-	Log.info("XXXXXXXXXXXXXXXXXXXXXXX             "+"-E---N---D-"+"             XXXXXXXXXXXXXXXXXXXXXX");
+	Log.info("XXXXXXXXXXXXXXXXXXXXXXX    "+ sTestCaseName +"-E---N---D-"+"     XXXXXXXXXXXXXXXXXXXXXX");
 
-	Log.info("X");
+	//Log.info("X");
 
-	Log.info("X");
+	//Log.info("X");
 
-	Log.info("X");
+	//Log.info("X");
 
-	Log.info("X");
+//	Log.info("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX");
 
 	}
 

@@ -1,211 +1,645 @@
-2018-12-26 14:13:20,909 INFO  [Log] Staring Firfox Browser 
-2018-12-26 14:13:32,583 INFO  [Log] Clicked on Contact Link 
-2018-12-26 14:13:38,938 INFO  [Log] You are in Adda.io Contact us page 
-2018-12-26 14:13:38,938 INFO  [Log] **************************************************************************************** 
-2018-12-26 14:13:38,938 INFO  [Log] **************************************************************************************** 
-2018-12-26 14:13:38,938 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 verifyContactUsForm       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2018-12-26 14:13:38,938 INFO  [Log] **************************************************************************************** 
-2018-12-26 14:13:38,938 INFO  [Log] **************************************************************************************** 
-2018-12-26 14:13:39,038 INFO  [Log] Switched to Contact Us IFrame 
-2018-12-26 14:13:39,162 INFO  [Log] First and Last name entered 
-2018-12-26 14:13:39,262 INFO  [Log] Phone Number entered 
-2018-12-26 14:13:39,338 INFO  [Log] Email ID entered 
-2018-12-26 14:13:39,685 INFO  [Log] Country Selected 
-2018-12-26 14:13:39,991 INFO  [Log] Product Selected 
-2018-12-26 14:13:40,028 INFO  [Log] Comments entered 
-2018-12-26 14:13:45,779 INFO  [Log] Submit Button Clicked 
-2018-12-26 14:13:45,779 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2018-12-26 14:13:45,782 INFO  [Log] X 
-2018-12-26 14:13:45,782 INFO  [Log] X 
-2018-12-26 14:13:45,782 INFO  [Log] X 
-2018-12-26 14:13:45,782 INFO  [Log] X 
-2018-12-26 15:09:12,348 INFO  [Log] Staring Firfox Browser 
-2018-12-26 15:09:24,808 INFO  [Log] Clicked on Contact Link 
-2018-12-26 15:09:30,182 INFO  [Log] You are in Adda.io Contact us page 
-2018-12-26 15:09:30,182 INFO  [Log] **************************************************************************************** 
-2018-12-26 15:09:30,182 INFO  [Log] **************************************************************************************** 
-2018-12-26 15:09:30,182 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 verifyContactUsForm       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2018-12-26 15:09:30,182 INFO  [Log] **************************************************************************************** 
-2018-12-26 15:09:30,186 INFO  [Log] **************************************************************************************** 
-2018-12-26 15:09:30,234 INFO  [Log] Switched to Contact Us IFrame 
-2018-12-26 15:09:30,402 INFO  [Log] First and Last name entered 
-2018-12-26 15:09:30,454 INFO  [Log] Phone Number entered 
-2018-12-26 15:09:30,522 INFO  [Log] Email ID entered 
-2018-12-26 15:09:30,865 INFO  [Log] Country Selected 
-2018-12-26 15:09:31,204 INFO  [Log] Product Selected 
-2018-12-26 15:09:31,245 INFO  [Log] Comments entered 
-2018-12-26 15:09:36,987 INFO  [Log] Submit Button Clicked 
-2018-12-26 15:09:36,991 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2018-12-26 15:09:36,991 INFO  [Log] X 
-2018-12-26 15:09:36,991 INFO  [Log] X 
-2018-12-26 15:09:36,991 INFO  [Log] X 
-2018-12-26 15:09:36,991 INFO  [Log] X 
-2018-12-26 15:09:53,060 INFO  [Log] Staring Firfox Browser 
-2018-12-26 15:10:06,794 INFO  [Log] Clicked on Contact Link 
-2018-12-26 15:10:15,029 INFO  [Log] You are in Adda.io Contact us page 
-2018-12-26 15:10:15,029 INFO  [Log] **************************************************************************************** 
-2018-12-26 15:10:15,029 INFO  [Log] **************************************************************************************** 
-2018-12-26 15:10:15,029 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 verifyContactUsForm       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2018-12-26 15:10:15,029 INFO  [Log] **************************************************************************************** 
-2018-12-26 15:10:15,029 INFO  [Log] **************************************************************************************** 
-2018-12-26 15:10:15,069 INFO  [Log] Switched to Contact Us IFrame 
-2018-12-26 15:10:15,229 INFO  [Log] First and Last name entered 
-2018-12-26 15:10:15,285 INFO  [Log] Phone Number entered 
-2018-12-26 15:10:15,381 INFO  [Log] Email ID entered 
-2018-12-26 15:10:15,797 INFO  [Log] Country Selected 
-2018-12-26 15:10:16,088 INFO  [Log] Product Selected 
-2018-12-26 15:10:16,128 INFO  [Log] Comments entered 
-2018-12-26 15:10:21,893 INFO  [Log] Submit Button Clicked 
-2018-12-26 15:10:21,893 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2018-12-26 15:10:21,893 INFO  [Log] X 
-2018-12-26 15:10:21,893 INFO  [Log] X 
-2018-12-26 15:10:21,893 INFO  [Log] X 
-2018-12-26 15:10:21,893 INFO  [Log] X 
-2018-12-26 15:10:24,322 INFO  [Log] Staring Firfox Browser 
-2018-12-26 15:10:36,343 INFO  [Log] **************************************************************************************** 
-2018-12-26 15:10:36,343 INFO  [Log] **************************************************************************************** 
-2018-12-26 15:10:36,343 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 loginToResidence       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2018-12-26 15:10:36,343 INFO  [Log] **************************************************************************************** 
-2018-12-26 15:10:36,343 INFO  [Log] **************************************************************************************** 
-2018-12-26 15:10:37,009 INFO  [Log] Entered Username and Password Successfully 
-2018-12-26 15:10:37,349 INFO  [Log] Logged in as residence Successfully 
-2018-12-26 15:10:37,349 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2018-12-26 15:10:37,349 INFO  [Log] X 
-2018-12-26 15:10:37,349 INFO  [Log] X 
-2018-12-26 15:10:37,349 INFO  [Log] X 
-2018-12-26 15:10:37,349 INFO  [Log] X 
-2018-12-26 15:10:46,046 INFO  [Log] Logged in as Admin Successfully 
-2018-12-26 15:10:47,759 INFO  [Log] Back to residence URL 
-2018-12-26 15:18:10,872 INFO  [Log] Staring Firfox Browser 
-2018-12-26 15:18:29,458 INFO  [Log] Staring Firfox Browser 
-2018-12-26 15:18:47,132 INFO  [Log] Staring Firfox Browser 
-2018-12-26 15:18:57,580 INFO  [Log] Clicked on Contact Link 
-2018-12-26 15:19:04,602 INFO  [Log] You are in Adda.io Contact us page 
-2018-12-26 15:19:04,602 INFO  [Log] **************************************************************************************** 
-2018-12-26 15:19:04,602 INFO  [Log] **************************************************************************************** 
-2018-12-26 15:19:04,602 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 verifyContactUsForm       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2018-12-26 15:19:04,602 INFO  [Log] **************************************************************************************** 
-2018-12-26 15:19:04,602 INFO  [Log] **************************************************************************************** 
-2018-12-26 15:19:04,634 INFO  [Log] Switched to Contact Us IFrame 
-2018-12-26 15:19:04,766 INFO  [Log] First and Last name entered 
-2018-12-26 15:19:04,849 INFO  [Log] Phone Number entered 
-2018-12-26 15:19:04,929 INFO  [Log] Email ID entered 
-2018-12-26 15:19:05,373 INFO  [Log] Country Selected 
-2018-12-26 15:19:05,654 INFO  [Log] Product Selected 
-2018-12-26 15:19:05,691 INFO  [Log] Comments entered 
-2018-12-26 15:19:11,449 INFO  [Log] Submit Button Clicked 
-2018-12-26 15:19:11,449 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2018-12-26 15:19:11,449 INFO  [Log] X 
-2018-12-26 15:19:11,449 INFO  [Log] X 
-2018-12-26 15:19:11,449 INFO  [Log] X 
-2018-12-26 15:19:11,453 INFO  [Log] X 
-2018-12-26 15:19:13,516 INFO  [Log] Staring Firfox Browser 
-2018-12-26 15:19:26,653 INFO  [Log] **************************************************************************************** 
-2018-12-26 15:19:26,653 INFO  [Log] **************************************************************************************** 
-2018-12-26 15:19:26,653 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 loginToResidence       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2018-12-26 15:19:26,653 INFO  [Log] **************************************************************************************** 
-2018-12-26 15:19:26,653 INFO  [Log] **************************************************************************************** 
-2018-12-26 15:19:27,249 INFO  [Log] Entered Username and Password Successfully 
-2018-12-26 15:19:27,797 INFO  [Log] Logged in as residence Successfully 
-2018-12-26 15:19:27,797 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2018-12-26 15:19:27,797 INFO  [Log] X 
-2018-12-26 15:19:27,797 INFO  [Log] X 
-2018-12-26 15:19:27,797 INFO  [Log] X 
-2018-12-26 15:19:27,797 INFO  [Log] X 
-2018-12-26 15:23:54,798 INFO  [Log] Staring Firfox Browser 
-2018-12-26 15:24:07,678 INFO  [Log] **************************************************************************************** 
-2018-12-26 15:24:07,678 INFO  [Log] **************************************************************************************** 
-2018-12-26 15:24:07,678 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 loginToResidence       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2018-12-26 15:24:07,678 INFO  [Log] **************************************************************************************** 
-2018-12-26 15:24:07,678 INFO  [Log] **************************************************************************************** 
-2018-12-26 15:24:08,435 INFO  [Log] Entered Username and Password Successfully 
-2018-12-26 15:24:08,883 INFO  [Log] Logged in as residence Successfully 
-2018-12-26 15:24:08,883 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2018-12-26 15:24:08,883 INFO  [Log] X 
-2018-12-26 15:24:08,883 INFO  [Log] X 
-2018-12-26 15:24:08,883 INFO  [Log] X 
-2018-12-26 15:24:08,884 INFO  [Log] X 
-2018-12-26 15:24:17,506 INFO  [Log] Staring Firfox Browser 
-2018-12-26 15:24:35,437 INFO  [Log] Staring Firfox Browser 
-2018-12-26 15:24:54,541 INFO  [Log] Staring Firfox Browser 
-2018-12-26 15:25:06,426 INFO  [Log] Clicked on Contact Link 
-2018-12-26 15:25:12,834 INFO  [Log] You are in Adda.io Contact us page 
-2018-12-26 15:25:12,834 INFO  [Log] **************************************************************************************** 
-2018-12-26 15:25:12,834 INFO  [Log] **************************************************************************************** 
-2018-12-26 15:25:12,834 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 verifyContactUsForm       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2018-12-26 15:25:12,834 INFO  [Log] **************************************************************************************** 
-2018-12-26 15:25:12,834 INFO  [Log] **************************************************************************************** 
-2018-12-26 15:25:12,918 INFO  [Log] Switched to Contact Us IFrame 
-2018-12-26 15:25:13,006 INFO  [Log] First and Last name entered 
-2018-12-26 15:25:13,050 INFO  [Log] Phone Number entered 
-2018-12-26 15:25:13,101 INFO  [Log] Email ID entered 
-2018-12-26 15:25:13,425 INFO  [Log] Country Selected 
-2018-12-26 15:25:13,697 INFO  [Log] Product Selected 
-2018-12-26 15:25:13,753 INFO  [Log] Comments entered 
-2018-12-26 15:25:19,530 INFO  [Log] Submit Button Clicked 
-2018-12-26 15:25:19,530 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2018-12-26 15:25:19,530 INFO  [Log] X 
-2018-12-26 15:25:19,530 INFO  [Log] X 
-2018-12-26 15:25:19,530 INFO  [Log] X 
-2018-12-26 15:25:19,530 INFO  [Log] X 
-2018-12-26 15:25:47,597 INFO  [Log] Staring Firfox Browser 
-2018-12-26 15:26:00,396 INFO  [Log] **************************************************************************************** 
-2018-12-26 15:26:00,396 INFO  [Log] **************************************************************************************** 
-2018-12-26 15:26:00,400 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 loginToResidence       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2018-12-26 15:26:00,400 INFO  [Log] **************************************************************************************** 
-2018-12-26 15:26:00,400 INFO  [Log] **************************************************************************************** 
-2018-12-26 15:26:01,114 INFO  [Log] Entered Username and Password Successfully 
-2018-12-26 15:26:01,458 INFO  [Log] Logged in as residence Successfully 
-2018-12-26 15:26:01,458 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2018-12-26 15:26:01,458 INFO  [Log] X 
-2018-12-26 15:26:01,458 INFO  [Log] X 
-2018-12-26 15:26:01,458 INFO  [Log] X 
-2018-12-26 15:26:01,458 INFO  [Log] X 
-2018-12-26 15:26:13,841 INFO  [Log] Logged in as Admin Successfully 
-2018-12-26 15:26:16,151 INFO  [Log] Back to residence URL 
-2018-12-26 15:26:18,706 INFO  [Log] Logged Out Successfully 
-2018-12-26 15:26:21,412 INFO  [Log] Clicked on Contact Link 
-2018-12-26 15:26:27,073 INFO  [Log] You are in Adda.io Contact us page 
-2018-12-26 15:26:27,073 INFO  [Log] **************************************************************************************** 
-2018-12-26 15:26:27,073 INFO  [Log] **************************************************************************************** 
-2018-12-26 15:26:27,073 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 verifyContactUsForm       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2018-12-26 15:26:27,073 INFO  [Log] **************************************************************************************** 
-2018-12-26 15:26:27,073 INFO  [Log] **************************************************************************************** 
-2018-12-26 15:26:27,209 INFO  [Log] Switched to Contact Us IFrame 
-2018-12-26 15:26:27,352 INFO  [Log] First and Last name entered 
-2018-12-26 15:26:27,404 INFO  [Log] Phone Number entered 
-2018-12-26 15:26:27,476 INFO  [Log] Email ID entered 
-2018-12-26 15:26:27,928 INFO  [Log] Country Selected 
-2018-12-26 15:26:28,211 INFO  [Log] Product Selected 
-2018-12-26 15:26:28,283 INFO  [Log] Comments entered 
-2018-12-26 15:26:34,161 INFO  [Log] Submit Button Clicked 
-2018-12-26 15:26:34,161 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2018-12-26 15:26:34,161 INFO  [Log] X 
-2018-12-26 15:26:34,161 INFO  [Log] X 
-2018-12-26 15:26:34,161 INFO  [Log] X 
-2018-12-26 15:26:34,161 INFO  [Log] X 
-2018-12-28 12:22:03,509 INFO  [Log] Staring Firfox Browser 
-2018-12-28 12:23:18,929 INFO  [Log] Staring Firfox Browser 
-2018-12-28 12:24:35,486 INFO  [Log] Staring Firfox Browser 
-2018-12-28 12:27:52,779 INFO  [Log] Staring Firfox Browser 
-2018-12-28 12:44:23,794 INFO  [Log] Staring Firfox Browser 
-2018-12-28 14:16:23,985 INFO  [Log] Staring Firfox Browser 
-2018-12-28 14:19:21,748 INFO  [Log] Staring Firfox Browser 
-2018-12-28 14:21:08,707 INFO  [Log] Staring Firfox Browser 
-2018-12-28 14:25:39,951 INFO  [Log] Staring Firfox Browser 
-2018-12-28 14:32:24,878 INFO  [Log] Staring Firfox Browser 
-2018-12-28 14:33:15,018 INFO  [Log] Staring Firfox Browser 
-2018-12-28 14:34:49,374 INFO  [Log] Staring Firfox Browser 
-2018-12-28 14:36:18,484 INFO  [Log] Staring Firfox Browser 
-2018-12-28 14:39:06,007 INFO  [Log] Staring Firfox Browser 
-2018-12-28 15:02:32,897 INFO  [Log] Staring Firfox Browser 
-2018-12-28 15:29:41,783 INFO  [Log] Staring Firfox Browser 
-2018-12-28 15:31:52,316 INFO  [Log] Staring Firfox Browser 
-2018-12-28 16:08:00,356 INFO  [Log] Staring Firfox Browser 
-2018-12-28 16:17:06,812 INFO  [Log] Staring Firfox Browser 
-2018-12-28 17:35:41,209 INFO  [Log] Staring Firfox Browser 
-2018-12-28 17:37:09,793 INFO  [Log] Staring Firfox Browser 
-2018-12-28 17:38:48,335 INFO  [Log] Staring Firfox Browser 
-2018-12-28 17:45:49,349 INFO  [Log] Staring Firfox Browser 
-2018-12-28 18:13:42,215 INFO  [Log] Staring Firfox Browser 
-2018-12-28 18:15:39,464 INFO  [Log] Staring Firfox Browser 
+2019-02-04 15:04:03,511 INFO  [Log] Starting chrome browser 
+2019-02-04 15:04:16,330 INFO  [Log] Entered Username and Password Successfully 
+2019-02-04 15:04:24,433 INFO  [Log] Logged in as Admin Successfully!! 
+2019-02-04 15:04:27,442 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   createNotice  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-04 15:04:41,603 INFO  [Log] Notice created for Today 
+2019-02-04 15:04:53,221 INFO  [Log] Notice created successfully from Admin!! 
+2019-02-04 15:04:55,241 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    createNotice-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-04 15:05:28,896 INFO  [Log] Logged out from admin successfully!! 
+2019-02-04 15:05:34,510 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-04 15:05:37,074 INFO  [Log] Entered Username and Password Successfully 
+2019-02-04 15:05:37,162 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-04 15:05:37,163 INFO  [Log] User has logged in again successfully!! 
+2019-02-04 15:05:43,163 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   verifyNotice  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-04 15:05:48,866 INFO  [Log] Notice verified successfully from user side!! 
+2019-02-04 15:05:48,866 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    verifyNotice-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-04 15:05:48,876 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   addMember  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-04 15:06:12,796 INFO  [Log] Member added to the Flat successfully!! 
+2019-02-04 15:06:16,796 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    addMember-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-04 15:06:16,796 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   addVehicle  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-04 15:06:27,214 INFO  [Log] ×
+Success !    Vehicle Added Successfully 
+2019-02-04 15:06:31,215 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    addVehicle-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-04 15:06:31,215 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-04 15:06:39,391 INFO  [Log] There are no bills to pay!! 
+2019-02-04 15:06:39,391 INFO  [Log] makePayment Test Case end!! 
+2019-02-04 15:06:42,128 INFO  [Log] User has logged out successfully!! 
+2019-02-04 15:06:48,966 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-04 15:06:51,551 INFO  [Log] Entered Username and Password Successfully 
+2019-02-04 15:06:51,666 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-04 15:06:51,666 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-04 15:07:10,191 INFO  [Log] Paying through UPI 
+2019-02-04 15:07:19,835 INFO  [Log] Paying through Debit Card 
+2019-02-04 15:07:37,792 INFO  [Log] Paying through Credit Card 
+2019-02-04 15:07:46,367 INFO  [Log] Paying through AMEX 
+2019-02-04 15:07:54,371 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    makePayment-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-04 15:07:56,879 INFO  [Log] User has logged out successfully!! 
+2019-02-04 15:08:00,975 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-04 15:08:03,505 INFO  [Log] Entered Username and Password Successfully 
+2019-02-04 15:08:03,597 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-04 15:08:03,597 INFO  [Log] User has logged in again successfully!! 
+2019-02-04 15:08:09,603 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   createDirectMessage  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-04 15:08:33,079 INFO  [Log] Message succesfully sent to the User!! 
+2019-02-04 15:08:33,079 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    createDirectMessage-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-04 15:08:39,894 INFO  [Log] User has logged out successfully!! 
+2019-02-04 15:08:43,940 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-04 15:08:46,453 INFO  [Log] Entered Username and Password Successfully 
+2019-02-04 15:08:46,547 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-04 15:08:46,547 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   validateDirectMessage  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-04 15:09:01,319 INFO  [Log] Number of messages available are-: 10 
+2019-02-04 15:09:01,345 INFO  [Log] Message successfully delivered to User!! 
+2019-02-04 15:09:01,345 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    validateDirectMessage-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-04 15:09:03,990 INFO  [Log] User has logged out successfully!! 
+2019-02-04 15:09:08,912 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-04 15:09:11,437 INFO  [Log] Entered Username and Password Successfully 
+2019-02-04 15:09:11,539 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-04 15:09:11,539 INFO  [Log] User has logged in again successfully!! 
+2019-02-04 15:09:17,541 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   createHelpDeskTicket  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-04 15:10:11,023 INFO  [Log] Helpdesk Ticket P129 Lodged Successfully 
+2019-02-04 15:10:13,023 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    createHelpDeskTicket-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-04 15:10:13,023 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   ValidateHelpdesk  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-04 15:10:16,231 INFO  [Log] Ticket P129 successfully Validated 
+2019-02-04 15:10:16,232 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    ValidateHelpdesk-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-04 15:10:20,242 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   CreateConversations  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-04 15:10:28,942 INFO  [Log] Conversation created successfully!! 
+2019-02-04 15:10:38,942 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    CreateConversations-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-04 15:10:42,943 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   createPoll  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-04 15:10:44,489 INFO  [Log] Poll created successfully!! 
+2019-02-04 15:10:44,489 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    createPoll-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-04 15:10:47,490 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   uploadPhotos  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-04 15:11:03,984 INFO  [Log] Photo uploaded to                             A1
+                         successfully!! 
+2019-02-04 15:11:08,985 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    uploadPhotos-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-04 15:11:30,293 INFO  [Log] User has logged out successfully!! 
+2019-02-04 15:55:53,103 INFO  [Log] Starting chrome browser 
+2019-02-04 15:56:21,583 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-04 15:56:46,991 INFO  [Log] Entered Username and Password Successfully 
+2019-02-04 15:56:47,118 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-04 15:56:47,118 INFO  [Log] User has logged in successfully!! 
+2019-02-04 15:58:19,871 INFO  [Log] Starting chrome browser 
+2019-02-04 15:58:40,706 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-04 15:58:43,356 INFO  [Log] Entered Username and Password Successfully 
+2019-02-04 15:58:43,469 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-04 15:58:43,470 INFO  [Log] User has logged in successfully!! 
+2019-02-04 15:59:27,737 INFO  [Log] Starting chrome browser 
+2019-02-04 15:59:46,667 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-04 15:59:49,248 INFO  [Log] Entered Username and Password Successfully 
+2019-02-04 15:59:49,344 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-04 15:59:49,344 INFO  [Log] User has logged in successfully!! 
+2019-02-04 16:05:22,443 INFO  [Log] Starting chrome browser 
+2019-02-04 16:05:53,715 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-04 16:05:56,281 INFO  [Log] Entered Username and Password Successfully 
+2019-02-04 16:05:56,374 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-04 16:05:56,374 INFO  [Log] User has logged in successfully!! 
+2019-02-04 16:11:24,517 INFO  [Log] Starting chrome browser 
+2019-02-04 16:11:43,183 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-04 16:11:45,765 INFO  [Log] Entered Username and Password Successfully 
+2019-02-04 16:11:45,874 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-04 16:11:45,874 INFO  [Log] User has logged in successfully!! 
+2019-02-04 16:12:20,772 INFO  [Log] Starting chrome browser 
+2019-02-04 16:12:45,840 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-04 16:12:48,399 INFO  [Log] Entered Username and Password Successfully 
+2019-02-04 16:12:48,526 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-04 16:12:48,526 INFO  [Log] User has logged in successfully!! 
+2019-02-04 16:16:03,055 INFO  [Log] Starting chrome browser 
+2019-02-04 16:16:28,614 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-04 16:16:31,249 INFO  [Log] Entered Username and Password Successfully 
+2019-02-04 16:16:31,366 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-04 16:16:31,366 INFO  [Log] User has logged in successfully!! 
+2019-02-04 16:17:01,284 INFO  [Log] Starting chrome browser 
+2019-02-04 16:18:36,466 INFO  [Log] Starting chrome browser 
+2019-02-04 16:21:39,795 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-04 16:21:42,400 INFO  [Log] Entered Username and Password Successfully 
+2019-02-04 16:21:42,507 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-04 16:21:42,507 INFO  [Log] User has logged in successfully!! 
+2019-02-04 16:22:18,757 INFO  [Log] Starting chrome browser 
+2019-02-04 16:24:24,512 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-04 16:24:43,665 INFO  [Log] Starting chrome browser 
+2019-02-04 16:26:14,189 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-04 16:26:16,830 INFO  [Log] Entered Username and Password Successfully 
+2019-02-04 16:26:16,943 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-04 16:26:16,943 INFO  [Log] User has logged in successfully!! 
+2019-02-04 16:26:50,643 INFO  [Log] Starting chrome browser 
+2019-02-04 16:28:23,019 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-04 16:28:25,615 INFO  [Log] Entered Username and Password Successfully 
+2019-02-04 16:28:25,713 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-04 16:28:25,713 INFO  [Log] User has logged in successfully!! 
+2019-02-04 16:29:42,372 INFO  [Log] Starting chrome browser 
+2019-02-04 16:33:27,220 INFO  [Log] Starting chrome browser 
+2019-02-04 16:34:16,049 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-04 16:34:18,669 INFO  [Log] Entered Username and Password Successfully 
+2019-02-04 16:34:18,777 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-04 16:34:18,777 INFO  [Log] User has logged in successfully!! 
+2019-02-04 16:37:33,527 INFO  [Log] Starting chrome browser 
+2019-02-04 16:39:09,364 INFO  [Log] Starting chrome browser 
+2019-02-04 16:40:57,189 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-04 16:40:59,924 INFO  [Log] Entered Username and Password Successfully 
+2019-02-04 16:41:00,103 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-04 16:41:00,103 INFO  [Log] User has logged in successfully!! 
+2019-02-04 16:41:07,409 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-04 16:41:10,013 INFO  [Log] Entered Username and Password Successfully 
+2019-02-04 16:41:10,128 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-04 16:41:10,128 INFO  [Log] User has logged in successfully!! 
+2019-02-04 17:37:15,803 INFO  [Log] Starting chrome browser 
+2019-02-04 17:41:22,488 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-04 17:51:35,604 INFO  [Log] Starting chrome browser 
+2019-02-04 17:51:50,501 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-04 17:51:53,172 INFO  [Log] Entered Username and Password Successfully 
+2019-02-04 17:51:53,276 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-04 17:51:53,276 INFO  [Log] User has logged in successfully!! 
+2019-02-04 17:52:22,932 INFO  [Log] Starting chrome browser 
+2019-02-04 17:52:36,144 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-04 17:52:38,767 INFO  [Log] Entered Username and Password Successfully 
+2019-02-04 17:52:38,881 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-04 17:52:38,881 INFO  [Log] User has logged in successfully!! 
+2019-02-05 11:02:07,123 INFO  [Log] Starting chrome browser 
+2019-02-05 11:02:23,988 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 11:02:26,694 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 11:02:26,838 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 11:02:26,838 INFO  [Log] User has logged in successfully!! 
+2019-02-05 11:05:43,689 INFO  [Log] Starting chrome browser 
+2019-02-05 11:06:00,737 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 11:06:56,830 INFO  [Log] Starting chrome browser 
+2019-02-05 11:07:13,613 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 11:07:16,265 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 11:07:16,381 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 11:07:16,381 INFO  [Log] User has logged in successfully!! 
+2019-02-05 11:07:22,388 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 11:07:32,744 INFO  [Log] There are no bills to pay!! 
+2019-02-05 11:07:32,745 INFO  [Log] makePayment Test Case end!! 
+2019-02-05 11:07:37,613 INFO  [Log] User has logged out successfully!! 
+2019-02-05 11:07:44,013 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 11:07:47,332 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 11:07:47,472 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 11:07:47,472 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 11:08:10,083 INFO  [Log] Paying through UPI 
+2019-02-05 11:08:19,885 INFO  [Log] Paying through Debit Card 
+2019-02-05 11:08:30,251 INFO  [Log] Paying through Credit Card 
+2019-02-05 11:08:39,398 INFO  [Log] Paying through AMEX 
+2019-02-05 11:08:49,074 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    makePayment-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 11:08:51,662 INFO  [Log] User has logged out successfully!! 
+2019-02-05 12:58:13,924 INFO  [Log] Starting chrome browser 
+2019-02-05 12:58:27,652 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 12:58:30,300 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 12:58:30,436 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 12:58:30,436 INFO  [Log] User has logged in successfully!! 
+2019-02-05 12:58:36,445 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 12:58:45,368 INFO  [Log] There are no bills to pay!! 
+2019-02-05 12:58:45,369 INFO  [Log] makePayment Test Case end!! 
+2019-02-05 12:58:50,026 INFO  [Log] User has logged out successfully!! 
+2019-02-05 12:58:58,729 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 12:59:01,311 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 12:59:01,415 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 12:59:01,415 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 12:59:23,075 INFO  [Log] Paying through UPI 
+2019-02-05 13:02:08,915 INFO  [Log] Starting chrome browser 
+2019-02-05 13:02:26,477 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 13:02:29,106 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 13:02:29,206 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 13:02:29,206 INFO  [Log] User has logged in successfully!! 
+2019-02-05 13:02:35,217 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 13:02:55,299 INFO  [Log] Starting chrome browser 
+2019-02-05 13:03:09,365 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 13:03:11,951 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 13:03:12,063 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 13:03:12,063 INFO  [Log] User has logged in successfully!! 
+2019-02-05 13:03:18,072 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 13:03:59,116 INFO  [Log] Starting chrome browser 
+2019-02-05 13:04:11,690 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 13:04:14,382 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 13:04:14,514 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 13:04:14,514 INFO  [Log] User has logged in successfully!! 
+2019-02-05 13:04:20,520 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 13:04:31,321 INFO  [Log] There are no bills to pay!! 
+2019-02-05 13:04:31,322 INFO  [Log] makePayment Test Case end!! 
+2019-02-05 13:04:36,722 INFO  [Log] User has logged out successfully!! 
+2019-02-05 13:04:42,891 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 13:04:45,468 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 13:04:45,568 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 13:04:45,568 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 13:05:04,997 INFO  [Log] Paying through UPI 
+2019-02-05 13:06:03,525 INFO  [Log] Starting chrome browser 
+2019-02-05 13:06:18,866 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 13:06:21,466 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 13:06:21,574 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 13:06:21,574 INFO  [Log] User has logged in successfully!! 
+2019-02-05 13:06:27,581 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 13:06:40,016 INFO  [Log] There are no bills to pay!! 
+2019-02-05 13:06:40,017 INFO  [Log] makePayment Test Case end!! 
+2019-02-05 13:06:49,598 INFO  [Log] User has logged out successfully!! 
+2019-02-05 13:06:56,519 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 13:06:59,029 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 13:06:59,132 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 13:06:59,132 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 13:07:25,437 INFO  [Log] Paying through UPI 
+2019-02-05 13:11:39,765 INFO  [Log] Starting chrome browser 
+2019-02-05 13:11:53,149 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 13:11:55,829 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 13:11:55,965 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 13:11:55,965 INFO  [Log] User has logged in successfully!! 
+2019-02-05 13:12:01,974 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 13:12:15,669 INFO  [Log] There are no bills to pay!! 
+2019-02-05 13:12:15,670 INFO  [Log] makePayment Test Case end!! 
+2019-02-05 13:12:22,963 INFO  [Log] User has logged out successfully!! 
+2019-02-05 13:12:30,318 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 13:12:32,849 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 13:12:32,945 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 13:12:32,945 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 13:12:57,854 INFO  [Log] Paying through UPI 
+2019-02-05 13:16:01,227 INFO  [Log] Starting chrome browser 
+2019-02-05 13:16:15,045 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 13:16:17,690 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 13:16:17,817 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 13:16:17,817 INFO  [Log] User has logged in successfully!! 
+2019-02-05 13:16:23,824 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 13:16:32,545 INFO  [Log] There are no bills to pay!! 
+2019-02-05 13:16:32,546 INFO  [Log] makePayment Test Case end!! 
+2019-02-05 13:16:37,777 INFO  [Log] User has logged out successfully!! 
+2019-02-05 13:16:43,556 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 13:16:46,137 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 13:16:46,261 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 13:16:46,265 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 13:17:07,101 INFO  [Log] Paying through UPI 
+2019-02-05 13:18:54,384 INFO  [Log] Starting chrome browser 
+2019-02-05 13:19:08,084 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 13:19:10,660 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 13:19:10,780 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 13:19:10,780 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 13:19:30,310 INFO  [Log] Paying through UPI 
+2019-02-05 13:21:45,867 INFO  [Log] Starting chrome browser 
+2019-02-05 13:21:55,148 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 13:21:57,812 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 13:21:57,959 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 13:21:57,959 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 13:22:22,044 INFO  [Log] Paying through UPI 
+2019-02-05 13:23:20,339 INFO  [Log] Starting chrome browser 
+2019-02-05 13:23:29,359 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 13:23:32,032 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 13:23:32,148 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 13:23:32,148 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 13:23:54,931 INFO  [Log] Paying through UPI 
+2019-02-05 13:24:00,632 INFO  [Log] Convinince charge of UPI when Amount payble is less than 2000 Checked!! 
+2019-02-05 13:24:52,120 INFO  [Log] Starting chrome browser 
+2019-02-05 13:25:38,839 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 13:25:41,434 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 13:25:41,550 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 13:25:41,550 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 13:26:03,431 INFO  [Log] Paying through UPI 
+2019-02-05 13:26:09,239 INFO  [Log] Convinince charge of UPI when Amount payble is less than 2000 Checked!! 
+2019-02-05 13:28:01,382 INFO  [Log] Starting chrome browser 
+2019-02-05 13:28:11,882 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 13:28:14,475 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 13:28:14,591 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 13:28:14,591 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 13:28:40,175 INFO  [Log] Paying through UPI 
+2019-02-05 13:28:45,886 INFO  [Log] Convinince charge of UPI when Amount payble is less than 2000 Checked!! 
+2019-02-05 13:30:02,169 INFO  [Log] Starting chrome browser 
+2019-02-05 13:30:50,652 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 13:30:57,605 INFO  [Log] Starting chrome browser 
+2019-02-05 13:34:04,123 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 13:34:09,480 INFO  [Log] Starting chrome browser 
+2019-02-05 13:41:47,445 INFO  [Log] Starting chrome browser 
+2019-02-05 13:41:57,217 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 13:41:59,913 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 13:42:00,065 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 13:42:00,065 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 13:42:27,456 INFO  [Log] Paying through UPI 
+2019-02-05 13:42:31,805 INFO  [Log] Convinince charge of UPI when Amount payble is less than 2000 Checked!! 
+2019-02-05 13:44:00,201 INFO  [Log] Starting chrome browser 
+2019-02-05 13:44:10,132 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 13:44:12,784 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 13:44:12,916 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 13:44:12,916 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 13:44:32,351 INFO  [Log] Paying through UPI 
+2019-02-05 13:44:36,661 INFO  [Log] Convinince charge of UPI when Amount payble is less than 2000 Checked!! 
+2019-02-05 13:44:47,822 INFO  [Log] Paying through Debit Card 
+2019-02-05 13:44:59,594 INFO  [Log] Paying through Credit Card 
+2019-02-05 13:45:10,407 INFO  [Log] Paying through AMEX 
+2019-02-05 13:45:20,797 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    makePayment-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 13:45:31,622 INFO  [Log] User has logged out successfully!! 
+2019-02-05 13:53:02,425 INFO  [Log] Starting chrome browser 
+2019-02-05 13:53:14,672 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 13:53:17,285 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 13:53:17,383 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 13:53:17,383 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 13:53:38,068 INFO  [Log] Paying through UPI 
+2019-02-05 13:53:42,410 INFO  [Log] Convinince charge of UPI when Amount payble is less than 2000 Checked!! 
+2019-02-05 13:53:53,463 INFO  [Log] Paying through Debit Card 
+2019-02-05 17:21:42,403 INFO  [Log] Starting chrome browser 
+2019-02-05 17:21:55,880 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 17:21:58,500 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 17:21:58,608 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 17:21:58,608 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 17:22:19,691 INFO  [Log] Paying through UPI 
+2019-02-05 17:22:23,983 INFO  [Log] Convinince charge of UPI when Amount payble is less than 2000 Checked!! 
+2019-02-05 17:22:34,988 INFO  [Log] Paying through Debit Card 
+2019-02-05 17:24:53,630 INFO  [Log] Starting chrome browser 
+2019-02-05 17:25:02,722 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 17:25:05,360 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 17:25:05,496 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 17:25:05,496 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 17:25:30,136 INFO  [Log] Starting chrome browser 
+2019-02-05 17:25:41,530 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 17:25:44,243 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 17:25:44,366 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 17:25:44,366 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 17:26:03,064 INFO  [Log] Paying through UPI 
+2019-02-05 17:26:07,379 INFO  [Log] Convinince charge of UPI when Amount payble is less than 2000 Checked!! 
+2019-02-05 17:26:18,629 INFO  [Log] Paying through Debit Card 
+2019-02-05 17:29:47,778 INFO  [Log] Starting chrome browser 
+2019-02-05 17:29:56,086 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 17:29:58,647 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 17:29:58,759 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 17:29:58,759 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 17:30:29,694 INFO  [Log] Starting chrome browser 
+2019-02-05 17:30:38,149 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 17:30:40,727 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 17:30:40,823 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 17:30:40,823 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 17:31:36,144 INFO  [Log] Starting chrome browser 
+2019-02-05 17:31:44,438 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 17:31:47,018 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 17:31:47,130 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 17:31:47,130 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 17:32:10,966 INFO  [Log] Paying through UPI 
+2019-02-05 17:32:15,294 INFO  [Log] Convinince charge of UPI when Amount payble is less than 2000 Checked!! 
+2019-02-05 17:32:26,195 INFO  [Log] Paying through Debit Card 
+2019-02-05 17:34:48,414 INFO  [Log] Starting chrome browser 
+2019-02-05 17:34:58,325 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 17:35:01,017 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 17:35:01,129 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 17:35:01,129 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 17:35:30,573 INFO  [Log] Paying through UPI 
+2019-02-05 17:35:34,904 INFO  [Log] Convinince charge of UPI when Amount payble is less than 2000 Checked!! 
+2019-02-05 17:35:45,921 INFO  [Log] Paying through Debit Card 
+2019-02-05 17:40:55,760 INFO  [Log] Starting chrome browser 
+2019-02-05 17:41:04,533 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 17:41:07,198 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 17:41:07,330 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 17:41:07,330 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 17:41:27,045 INFO  [Log] Paying through UPI 
+2019-02-05 17:41:31,366 INFO  [Log] Convinince charge of UPI when Amount payble is less than 2000 Checked!! 
+2019-02-05 17:41:42,509 INFO  [Log] Paying through Debit Card 
+2019-02-05 17:49:37,159 INFO  [Log] Starting chrome browser 
+2019-02-05 17:49:47,039 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 17:49:49,717 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 17:49:49,849 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 17:49:49,849 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 17:50:09,899 INFO  [Log] Paying through UPI 
+2019-02-05 17:50:14,220 INFO  [Log] Convinince charge of UPI when Amount payble is less than 2000 Checked!! 
+2019-02-05 17:50:25,199 INFO  [Log] Paying through Debit Card 
+2019-02-05 17:52:15,464 INFO  [Log] Starting chrome browser 
+2019-02-05 17:52:25,078 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 17:52:27,677 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 17:52:27,781 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 17:52:27,781 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 17:52:48,422 INFO  [Log] Paying through UPI 
+2019-02-05 17:52:52,748 INFO  [Log] Convinince charge of UPI when Amount payble is less than 2000 Checked!! 
+2019-02-05 17:53:03,726 INFO  [Log] Paying through Debit Card 
+2019-02-05 17:53:08,077 INFO  [Log] Convinince charge of UPI when Amount payble is less than 2000 Checked!! 
+2019-02-05 17:53:18,844 INFO  [Log] Paying through Credit Card 
+2019-02-05 17:53:29,590 INFO  [Log] Paying through AMEX 
+2019-02-05 17:53:39,704 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    makePayment-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 17:53:42,242 INFO  [Log] User has logged out successfully!! 
+2019-02-05 18:03:00,718 INFO  [Log] Starting chrome browser 
+2019-02-05 18:03:10,556 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 18:03:13,256 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 18:03:13,380 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 18:03:13,380 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 18:03:37,674 INFO  [Log] Paying through UPI 
+2019-02-05 18:03:41,972 INFO  [Log] Convinince charge of UPI when Amount payble is less than 2000 Checked!! 
+2019-02-05 18:03:53,022 INFO  [Log] Paying through Debit Card 
+2019-02-05 18:03:57,347 INFO  [Log] Convinince charge of Debit Card when Amount payble is less than 2000 Checked 
+2019-02-05 18:04:13,158 INFO  [Log] Convinince charge of Credit Card is Checked 
+2019-02-05 18:04:13,158 INFO  [Log] Paying through Credit Card 
+2019-02-05 18:04:23,921 INFO  [Log] Paying through AMEX 
+2019-02-05 18:04:33,995 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    makePayment-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 18:04:37,102 INFO  [Log] User has logged out successfully!! 
+2019-02-05 18:07:44,672 INFO  [Log] Starting chrome browser 
+2019-02-05 18:07:54,006 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 18:07:56,643 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 18:07:56,751 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 18:07:56,751 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 18:08:20,789 INFO  [Log] Paying through UPI 
+2019-02-05 18:08:25,110 INFO  [Log] Convinince charge of UPI when Amount payble is less than 2000 Checked!! 
+2019-02-05 18:08:36,060 INFO  [Log] Paying through Debit Card 
+2019-02-05 18:08:40,420 INFO  [Log] Convinince charge of Debit Card when Amount payble is less than 2000 Checked 
+2019-02-05 18:08:55,966 INFO  [Log] Convinince charge of Credit Card is Checked 
+2019-02-05 18:08:55,966 INFO  [Log] Paying through Credit Card 
+2019-02-05 18:09:09,293 INFO  [Log] Convinince charge of Amex Card is Checked 
+2019-02-05 18:09:09,294 INFO  [Log] Paying through AMEX 
+2019-02-05 18:12:28,770 INFO  [Log] Starting chrome browser 
+2019-02-05 18:12:37,497 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 18:12:40,081 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 18:12:40,189 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 18:12:40,189 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 18:13:02,287 INFO  [Log] Paying through UPI 
+2019-02-05 18:13:06,594 INFO  [Log] Convinince charge of UPI when Amount payble is less than 2000 Checked!! 
+2019-02-05 18:13:18,586 INFO  [Log] Paying through Debit Card 
+2019-02-05 18:13:59,820 INFO  [Log] Starting chrome browser 
+2019-02-05 18:14:08,986 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 18:14:11,591 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 18:14:11,691 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 18:14:11,691 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 18:14:40,657 INFO  [Log] Paying through UPI 
+2019-02-05 18:15:57,793 INFO  [Log] Starting chrome browser 
+2019-02-05 18:16:07,215 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 18:16:09,884 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 18:16:10,007 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 18:16:10,007 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 18:16:33,077 INFO  [Log] Paying through UPI 
+2019-02-05 18:16:37,409 INFO  [Log] Convinince charge of UPI when Amount payble is less than 2000 Checked!! 
+2019-02-05 18:16:49,438 INFO  [Log] Paying through Debit Card 
+2019-02-05 18:16:53,804 INFO  [Log] Convinince charge of Debit Card when Amount payble is less than 2000 Checked 
+2019-02-05 18:17:10,119 INFO  [Log] Convinince charge of Credit Card is Checked 
+2019-02-05 18:17:10,119 INFO  [Log] Paying through Credit Card 
+2019-02-05 18:17:24,053 INFO  [Log] Convinince charge of Amex Card is Checked 
+2019-02-05 18:17:24,053 INFO  [Log] Paying through AMEX 
+2019-02-05 18:18:38,345 INFO  [Log] Starting chrome browser 
+2019-02-05 18:18:48,060 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 18:18:50,771 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 18:18:50,907 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 18:18:50,907 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 18:19:10,272 INFO  [Log] Paying through UPI 
+2019-02-05 18:19:14,624 INFO  [Log] Convinince charge of UPI when Amount payble is less than 2000 Checked!! 
+2019-02-05 18:19:29,036 INFO  [Log] Paying through Debit Card 
+2019-02-05 18:19:33,394 INFO  [Log] Convinince charge of Debit Card when Amount payble is less than 2000 Checked 
+2019-02-05 18:19:49,630 INFO  [Log] Convinince charge of Credit Card is Checked 
+2019-02-05 18:19:49,630 INFO  [Log] Paying through Credit Card 
+2019-02-05 18:20:05,622 INFO  [Log] Convinince charge of Amex Card is Checked 
+2019-02-05 18:20:05,622 INFO  [Log] Paying through AMEX 
+2019-02-05 18:20:16,756 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    makePayment-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 18:20:20,972 INFO  [Log] User has logged out successfully!! 
+2019-02-05 18:33:13,012 INFO  [Log] Starting chrome browser 
+2019-02-05 18:33:21,942 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 18:33:24,557 INFO  [Log] Entered Username and Password Successfully 
+2019-02-05 18:33:24,653 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 18:33:24,653 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-05 18:33:49,618 INFO  [Log] Paying through UPI 
+2019-02-05 18:33:53,937 INFO  [Log] Convinince charge of UPI when Amount payble is less than 2000 Checked!! 
+2019-02-05 18:34:07,029 INFO  [Log] Paying through Debit Card 
+2019-02-05 18:34:11,375 INFO  [Log] Convinince charge of Debit Card when Amount payble is less than 2000 Checked 
+2019-02-05 18:34:27,504 INFO  [Log] Convinince charge of Credit Card is Checked 
+2019-02-05 18:34:27,504 INFO  [Log] Paying through Credit Card 
+2019-02-05 18:34:43,600 INFO  [Log] Convinince charge of Amex Card is Checked 
+2019-02-05 18:34:43,600 INFO  [Log] Paying through AMEX 
+2019-02-05 18:34:54,892 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    makePayment-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-05 18:34:57,860 INFO  [Log] User has logged out successfully!! 
+2019-02-07 10:33:42,657 INFO  [Log] Starting chrome browser 
+2019-02-07 10:34:12,654 INFO  [Log] Entered Username and Password Successfully 
+2019-02-07 10:34:23,398 INFO  [Log] Logged in as Admin Successfully!! 
+2019-02-07 10:34:26,407 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   createNotice  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 10:34:41,293 INFO  [Log] Notice created for Today 
+2019-02-07 10:35:16,902 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   addMember  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 10:36:27,532 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   CreateConversations  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 10:37:35,078 INFO  [Log] Starting chrome browser 
+2019-02-07 10:37:49,068 INFO  [Log] Entered Username and Password Successfully 
+2019-02-07 10:37:58,312 INFO  [Log] Logged in as Admin Successfully!! 
+2019-02-07 10:38:01,338 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   createNotice  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 10:38:16,231 INFO  [Log] Notice created for Today 
+2019-02-07 10:38:27,890 INFO  [Log] Notice created successfully from Admin!! 
+2019-02-07 10:38:29,922 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    createNotice-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 10:38:38,375 INFO  [Log] Logged out from admin successfully!! 
+2019-02-07 10:38:47,923 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 10:38:50,512 INFO  [Log] Entered Username and Password Successfully 
+2019-02-07 10:38:50,634 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 10:38:50,634 INFO  [Log] User has logged in again successfully!! 
+2019-02-07 10:38:56,635 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   verifyNotice  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 10:39:03,222 INFO  [Log] Notice verified successfully from user side!! 
+2019-02-07 10:39:03,222 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    verifyNotice-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 10:39:03,231 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   addMember  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 10:39:19,109 INFO  [Log] Member added to the Flat successfully!! 
+2019-02-07 10:39:23,109 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    addMember-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 10:39:23,109 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   addVehicle  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 10:39:33,568 INFO  [Log] ×
+Success !    Vehicle Added Successfully 
+2019-02-07 10:39:37,570 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    addVehicle-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 10:39:37,570 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 10:39:46,714 INFO  [Log] There are no bills to pay!! 
+2019-02-07 10:39:46,714 INFO  [Log] makePayment Test Case end!! 
+2019-02-07 10:39:49,226 INFO  [Log] User has logged out successfully!! 
+2019-02-07 10:39:55,732 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 10:39:58,407 INFO  [Log] Entered Username and Password Successfully 
+2019-02-07 10:39:58,516 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 10:39:58,516 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 10:40:21,054 INFO  [Log] Paying through UPI 
+2019-02-07 10:40:23,282 INFO  [Log] UPI charges for less than 2000 is 0.0 
+2019-02-07 10:40:25,282 INFO  [Log] Convinince charge of UPI when Amount payble is less than 2000 Checked!! 
+2019-02-07 10:40:36,011 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 10:40:38,686 INFO  [Log] Entered Username and Password Successfully 
+2019-02-07 10:40:38,784 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 10:40:38,784 INFO  [Log] User has logged in again successfully!! 
+2019-02-07 10:40:44,790 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   createDirectMessage  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 10:40:54,363 INFO  [Log] Message succesfully sent to the User!! 
+2019-02-07 10:40:54,363 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    createDirectMessage-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 10:41:01,033 INFO  [Log] User has logged out successfully!! 
+2019-02-07 10:41:07,397 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 10:41:09,912 INFO  [Log] Entered Username and Password Successfully 
+2019-02-07 10:41:10,022 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 10:41:10,022 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   validateDirectMessage  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 10:41:25,790 INFO  [Log] Number of messages available are-: 10 
+2019-02-07 10:41:25,817 INFO  [Log] Message successfully delivered to User!! 
+2019-02-07 10:41:25,817 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    validateDirectMessage-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 10:41:29,373 INFO  [Log] User has logged out successfully!! 
+2019-02-07 10:41:35,561 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 10:41:38,092 INFO  [Log] Entered Username and Password Successfully 
+2019-02-07 10:41:38,201 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 10:41:38,201 INFO  [Log] User has logged in again successfully!! 
+2019-02-07 10:41:44,205 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   createHelpDeskTicket  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 10:42:32,337 INFO  [Log] Helpdesk Ticket P130 Lodged Successfully 
+2019-02-07 10:42:34,337 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    createHelpDeskTicket-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 10:42:34,337 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   ValidateHelpdesk  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 10:42:37,539 INFO  [Log] Ticket P130 successfully Validated 
+2019-02-07 10:42:37,539 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    ValidateHelpdesk-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 10:42:41,547 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   CreateConversations  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 10:42:48,024 INFO  [Log] Conversation created successfully!! 
+2019-02-07 10:42:58,024 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    CreateConversations-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 10:43:02,025 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   createPoll  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 10:43:03,897 INFO  [Log] Poll created successfully!! 
+2019-02-07 10:43:03,897 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    createPoll-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 10:43:06,897 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   uploadPhotos  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 10:43:23,574 INFO  [Log] Photo uploaded to                             A1
+                         successfully!! 
+2019-02-07 10:43:28,574 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    uploadPhotos-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 10:43:35,393 INFO  [Log] User has logged out successfully!! 
+2019-02-07 10:49:12,949 INFO  [Log] Starting chrome browser 
+2019-02-07 10:49:28,129 INFO  [Log] Entered Username and Password Successfully 
+2019-02-07 10:49:38,134 INFO  [Log] Logged in as Admin Successfully!! 
+2019-02-07 10:49:41,140 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   createNotice  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 10:49:55,893 INFO  [Log] Notice created for Today 
+2019-02-07 10:50:07,435 INFO  [Log] Notice created successfully from Admin!! 
+2019-02-07 10:50:09,457 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    createNotice-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 10:50:16,104 INFO  [Log] Logged out from admin successfully!! 
+2019-02-07 10:50:21,176 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 10:50:23,723 INFO  [Log] Entered Username and Password Successfully 
+2019-02-07 10:50:23,818 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 10:50:23,818 INFO  [Log] User has logged in again successfully!! 
+2019-02-07 10:50:29,819 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   verifyNotice  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 10:50:35,534 INFO  [Log] Notice verified successfully from user side!! 
+2019-02-07 10:50:35,534 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    verifyNotice-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 10:50:35,544 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   addMember  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 10:50:51,123 INFO  [Log] Member added to the Flat successfully!! 
+2019-02-07 10:50:55,123 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    addMember-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 10:50:55,123 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   addVehicle  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 10:51:05,351 INFO  [Log] ×
+Success !    Vehicle Added Successfully 
+2019-02-07 10:51:09,352 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    addVehicle-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 10:51:09,352 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 10:51:18,125 INFO  [Log] There are no bills to pay!! 
+2019-02-07 10:51:18,125 INFO  [Log] makePayment Test Case end!! 
+2019-02-07 10:51:21,865 INFO  [Log] User has logged out successfully!! 
+2019-02-07 10:51:28,526 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 10:51:31,042 INFO  [Log] Entered Username and Password Successfully 
+2019-02-07 10:51:31,138 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 10:51:31,139 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 10:51:55,702 INFO  [Log] Paying through UPI 
+2019-02-07 10:51:57,899 INFO  [Log] UPI charges for less than 2000 is 0.0 
+2019-02-07 10:51:59,900 INFO  [Log] Convinince charge of UPI when Amount payble is less than 2000 Checked!! 
+2019-02-07 10:52:12,197 INFO  [Log] Paying through Debit Card 
+2019-02-07 10:52:14,395 INFO  [Log] Debit card charges When total amount is less than 2000 Rupees is 0.18 
+2019-02-07 10:52:16,473 INFO  [Log] Convinince charge of Debit Card when Amount payble is less than 2000 Checked 
+2019-02-07 10:52:30,609 INFO  [Log] Credit card convineince charge is 2.5 
+2019-02-07 10:52:32,687 INFO  [Log] Convinince charge of Credit Card is Checked 
+2019-02-07 10:52:32,687 INFO  [Log] Paying through Credit Card 
+2019-02-07 10:52:46,533 INFO  [Log] Amex card convineince charge is 2.4 
+2019-02-07 10:52:48,609 INFO  [Log] Convinince charge of Amex Card is Checked 
+2019-02-07 10:52:48,609 INFO  [Log] Paying through AMEX 
+2019-02-07 10:52:59,619 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    makePayment-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 10:53:02,859 INFO  [Log] User has logged out successfully!! 
+2019-02-07 10:53:07,814 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 10:53:10,326 INFO  [Log] Entered Username and Password Successfully 
+2019-02-07 10:53:10,425 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 10:53:10,425 INFO  [Log] User has logged in again successfully!! 
+2019-02-07 10:53:16,429 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   createDirectMessage  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 10:53:22,905 INFO  [Log] Message succesfully sent to the User!! 
+2019-02-07 10:53:22,905 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    createDirectMessage-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 10:53:30,504 INFO  [Log] User has logged out successfully!! 
+2019-02-07 10:53:34,499 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 10:53:36,970 INFO  [Log] Entered Username and Password Successfully 
+2019-02-07 10:53:37,092 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 10:53:37,092 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   validateDirectMessage  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 10:53:51,585 INFO  [Log] Number of messages available are-: 10 
+2019-02-07 10:53:51,606 INFO  [Log] Message successfully delivered to User!! 
+2019-02-07 10:53:51,606 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    validateDirectMessage-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 10:53:53,454 INFO  [Log] User has logged out successfully!! 
+2019-02-07 10:53:57,441 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 10:53:59,951 INFO  [Log] Entered Username and Password Successfully 
+2019-02-07 10:54:00,069 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 10:54:00,069 INFO  [Log] User has logged in again successfully!! 
+2019-02-07 10:54:06,072 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   createHelpDeskTicket  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 10:54:53,796 INFO  [Log] Helpdesk Ticket P131 Lodged Successfully 
+2019-02-07 10:54:55,797 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    createHelpDeskTicket-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 10:54:55,797 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   ValidateHelpdesk  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 10:54:58,991 INFO  [Log] Ticket P131 successfully Validated 
+2019-02-07 10:54:58,991 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    ValidateHelpdesk-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 10:55:03,001 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   CreateConversations  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 10:55:09,335 INFO  [Log] Conversation created successfully!! 
+2019-02-07 10:55:19,335 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    CreateConversations-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 10:55:23,335 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   createPoll  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 10:55:24,917 INFO  [Log] Poll created successfully!! 
+2019-02-07 10:55:24,918 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    createPoll-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 10:55:27,919 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   uploadPhotos  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 10:55:43,942 INFO  [Log] Photo uploaded to                             A1
+                         successfully!! 
+2019-02-07 10:55:48,943 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    uploadPhotos-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 10:55:55,627 INFO  [Log] User has logged out successfully!! 

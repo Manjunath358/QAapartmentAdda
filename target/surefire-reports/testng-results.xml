@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test" duration-ms="368549" started-at="2019-02-07T08:53:09Z" finished-at="2019-02-07T08:59:17Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="368549" started-at="2019-02-07T08:53:09Z" finished-at="2019-02-07T08:59:17Z">
+      <class name="com.adda.main.MainClass">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.adda.main.MainClass@75bd9247]" name="beforeMethod" is-config="true" duration-ms="29259" started-at="2019-02-07T14:22:40Z" finished-at="2019-02-07T14:23:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="AdminCreateNotice()[pri:1, instance:com.adda.main.MainClass@75bd9247]" name="AdminCreateNotice" duration-ms="58413" started-at="2019-02-07T14:23:09Z" finished-at="2019-02-07T14:24:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdminCreateNotice -->
+        <test-method status="PASS" signature="UserVerifyNotice()[pri:2, instance:com.adda.main.MainClass@75bd9247]" name="UserVerifyNotice" duration-ms="27644" started-at="2019-02-07T14:24:07Z" finished-at="2019-02-07T14:24:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserVerifyNotice -->
+        <test-method status="PASS" signature="verifyMyUnit()[pri:3, instance:com.adda.main.MainClass@75bd9247]" name="verifyMyUnit" duration-ms="82884" started-at="2019-02-07T14:24:35Z" finished-at="2019-02-07T14:25:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMyUnit -->
+        <test-method status="PASS" signature="validateDirectMessage()[pri:4, instance:com.adda.main.MainClass@75bd9247]" name="validateDirectMessage" duration-ms="64501" started-at="2019-02-07T14:25:58Z" finished-at="2019-02-07T14:27:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDirectMessage -->
+        <test-method status="PASS" signature="ValidateHelpdesk()[pri:5, instance:com.adda.main.MainClass@75bd9247]" name="ValidateHelpdesk" duration-ms="74231" started-at="2019-02-07T14:27:02Z" finished-at="2019-02-07T14:28:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateHelpdesk -->
+        <test-method status="PASS" signature="createConversations()[pri:6, instance:com.adda.main.MainClass@75bd9247]" name="createConversations" duration-ms="60848" started-at="2019-02-07T14:28:17Z" finished-at="2019-02-07T14:29:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createConversations -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.adda.main.MainClass@75bd9247]" name="afterMethod" is-config="true" duration-ms="1449" started-at="2019-02-07T14:29:18Z" finished-at="2019-02-07T14:29:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.adda.main.MainClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Test -->
+</testng-results>

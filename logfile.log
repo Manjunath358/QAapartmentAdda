@@ -643,3 +643,78 @@ Success !    Vehicle Added Successfully
                          successfully!! 
 2019-02-07 10:55:48,943 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    uploadPhotos-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
 2019-02-07 10:55:55,627 INFO  [Log] User has logged out successfully!! 
+2019-02-07 12:21:10,527 INFO  [Log] Starting chrome browser 
+2019-02-07 12:21:31,228 INFO  [Log] Entered Username and Password Successfully 
+2019-02-07 12:21:41,218 INFO  [Log] Logged in as Admin Successfully!! 
+2019-02-07 12:21:44,378 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   createNotice  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 12:22:00,787 INFO  [Log] Notice created for Today 
+2019-02-07 14:22:40,442 INFO  [Log] Starting chrome browser 
+2019-02-07 14:23:14,409 INFO  [Log] Entered Username and Password Successfully 
+2019-02-07 14:23:25,379 INFO  [Log] Logged in as Admin Successfully!! 
+2019-02-07 14:23:28,406 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   createNotice  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 14:23:44,585 INFO  [Log] Notice created for Today 
+2019-02-07 14:23:56,242 INFO  [Log] Notice created successfully from Admin!! 
+2019-02-07 14:23:58,262 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    createNotice-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 14:24:07,855 INFO  [Log] Logged out from admin successfully!! 
+2019-02-07 14:24:18,892 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 14:24:21,482 INFO  [Log] Entered Username and Password Successfully 
+2019-02-07 14:24:21,626 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 14:24:21,626 INFO  [Log] User has logged in again successfully!! 
+2019-02-07 14:24:27,627 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   verifyNotice  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 14:24:35,499 INFO  [Log] Notice verified successfully from user side!! 
+2019-02-07 14:24:35,499 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    verifyNotice-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 14:24:35,764 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   addMember  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 14:24:51,373 INFO  [Log] Member added to the Flat successfully!! 
+2019-02-07 14:24:55,376 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    addMember-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 14:24:55,376 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   addVehicle  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 14:25:05,940 INFO  [Log] ×
+Success !    Vehicle Added Successfully 
+2019-02-07 14:25:09,943 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    addVehicle-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 14:25:09,943 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 14:25:19,094 INFO  [Log] There are no bills to pay!! 
+2019-02-07 14:25:19,094 INFO  [Log] makePayment Test Case end!! 
+2019-02-07 14:25:23,236 INFO  [Log] User has logged out successfully!! 
+2019-02-07 14:25:33,065 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 14:25:35,629 INFO  [Log] Entered Username and Password Successfully 
+2019-02-07 14:25:35,729 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 14:25:35,729 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   MakePayment Test Case Started  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 14:25:53,481 INFO  [Log] There are no bills to pay!! 
+2019-02-07 14:25:53,481 INFO  [Log] makePayment Test Case end!! 
+2019-02-07 14:25:58,383 INFO  [Log] User has logged out successfully!! 
+2019-02-07 14:26:08,772 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 14:26:11,337 INFO  [Log] Entered Username and Password Successfully 
+2019-02-07 14:26:11,469 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 14:26:11,469 INFO  [Log] User has logged in again successfully!! 
+2019-02-07 14:26:17,630 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   createDirectMessage  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 14:26:24,895 INFO  [Log] Message succesfully sent to the User!! 
+2019-02-07 14:26:24,895 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    createDirectMessage-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 14:26:32,007 INFO  [Log] User has logged out successfully!! 
+2019-02-07 14:26:38,419 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 14:26:40,904 INFO  [Log] Entered Username and Password Successfully 
+2019-02-07 14:26:41,016 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 14:26:41,016 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   validateDirectMessage  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 14:26:58,179 INFO  [Log] Number of messages available are-: 10 
+2019-02-07 14:26:58,198 INFO  [Log] Message successfully delivered to User!! 
+2019-02-07 14:26:58,198 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    validateDirectMessage-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 14:27:02,884 INFO  [Log] User has logged out successfully!! 
+2019-02-07 14:27:09,623 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   loginToResidence  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 14:27:12,179 INFO  [Log] Entered Username and Password Successfully 
+2019-02-07 14:27:12,292 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    loginToResidence-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 14:27:12,292 INFO  [Log] User has logged in again successfully!! 
+2019-02-07 14:27:18,337 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   createHelpDeskTicket  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 14:28:07,891 INFO  [Log] Helpdesk Ticket P132 Lodged Successfully 
+2019-02-07 14:28:09,893 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    createHelpDeskTicket-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 14:28:09,893 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   ValidateHelpdesk  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 14:28:13,113 INFO  [Log] Ticket P132 successfully Validated 
+2019-02-07 14:28:13,113 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    ValidateHelpdesk-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 14:28:17,725 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   CreateConversations  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 14:28:23,646 INFO  [Log] Conversation created successfully!! 
+2019-02-07 14:28:33,649 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    CreateConversations-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 14:28:37,651 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   createPoll  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 14:28:39,760 INFO  [Log] Poll created successfully!! 
+2019-02-07 14:28:39,760 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    createPoll-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 14:28:42,761 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$   uploadPhotos  $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-02-07 14:29:01,518 INFO  [Log] Photo uploaded to                             A1
+                         successfully!! 
+2019-02-07 14:29:06,519 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX    uploadPhotos-E---N---D-     XXXXXXXXXXXXXXXXXXXXXX 
+2019-02-07 14:29:17,963 INFO  [Log] User has logged out successfully!! 
